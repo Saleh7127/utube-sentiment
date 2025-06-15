@@ -1,0 +1,4 @@
+{
+    "run_id": "c52f4fbf7feb41f1bcf1d7275530fa33",
+    "model_path": "s3://mlflow-bucket-7127/660515748211773813/c52f4fbf7feb41f1bcf1d7275530fa33/artifacts/lgbm_model"
+}

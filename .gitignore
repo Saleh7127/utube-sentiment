@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+*.log
+model_registration_errors.log
+model_evaluation_errors.log
+model_building_errors.log
+preprocessing_errors.log
+errors.log
+
+# DVC
+.dvc
+.dvc/
+.dvcignore
+
+# MLflow
+mlruns/
+
+# Data and Models
+# Lets keep the data
+# data/
+# *.pkl
+# experiment_info.json
+# confusion_matrix_*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS specific
+.DS_Store
+Thumbs.db
+.qodo
