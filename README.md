@@ -49,7 +49,7 @@ mlflow ui
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/utube-sentiment.git
+git clone https://github.com/Saleh7127/utube-sentiment.git
 cd utube-sentiment
 ```
 
