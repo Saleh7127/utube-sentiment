@@ -79,6 +79,7 @@ Located in `flask_api/`, provides endpoints for sentiment analysis.
 
 ### Chrome Extension
 Located in `yt-chrome-plugin/`, enables real-time sentiment analysis on YouTube comments.
+- insert your YouTube API Key in `yt-chrome-plugin/popus.js`
 
 ## Dependencies
 
